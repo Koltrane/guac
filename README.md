@@ -1,2 +1,8 @@
 # guac1
-Guacamole recipe
+
+> Guacamole recipe
+
+Ivan Gonzalez special recipe, no poison.
+
+<http://www.nber.org>
+
