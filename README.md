@@ -1,6 +1,7 @@
-# guac2
-ivan's guac
+# Guacamole
+> My awesome guacamole recipe
 
-This is great
+-----
 
-<https://en.wikipedia.org/wiki/Guacamole>
+<http://www.nber.org>
+
