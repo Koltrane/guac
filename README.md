@@ -1,2 +1,7 @@
 # guac
-My awesome guacamole recipe
+> My awesome guacamole recipe
+
+-----
+
+<http://www.nber.org>
+
